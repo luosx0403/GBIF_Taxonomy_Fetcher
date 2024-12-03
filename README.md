@@ -46,6 +46,27 @@ Run the script with the following command:
 ```bash
 python script.py -in-level f -out-level g s -input-file input.txt -output-file output.txt
 ```
+### Taxonomic Levels
+
+This script uses the following abbreviations for taxonomic levels:
+
+| Abbreviation | Full Term | Example       |
+| ------------ | --------- | ------------- |
+| `k`          | Kingdom   | Plantae       |
+| `p`          | Phylum    | Tracheophyta  |
+| `c`          | Class     | Magnoliopsida |
+| `o`          | Order     | Rosales       |
+| `f`          | Family    | Rosaceae      |
+| `g`          | Genus     | Rosa          |
+| `s`          | Species   | Rosa gallica  |
+
+For example, if you want to fetch the genus (`g`) and species (`s`) for a list of plant family names (`f`), you can specify:
+
+```bash
+-in-level f -out-level g s
+```
+
+This will return genus and species for each family in the input file.
 
 ### Command-Line Arguments
 
