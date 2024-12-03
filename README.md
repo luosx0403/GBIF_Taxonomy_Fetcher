@@ -160,4 +160,4 @@ Contributions are welcome! If you'd like to improve this tool or report issues, 
 
 ## 🧑‍💻 Author
 
-This script is developed and maintained by **Your Name**. For inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
+For inquiries, please contact [luoshaoxuan@outlook.com](mailto:luoshaoxuan@outlook.com).
