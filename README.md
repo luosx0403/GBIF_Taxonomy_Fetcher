@@ -23,7 +23,7 @@ Easily retrieve taxonomic classifications from kingdom to species for given plan
 ### Prerequisites
 
 1. **Python 3.7+**  
-   Install Python from [python.org](https://www.python.org/).
+   Install Python from [python.org](https://www.python.org/) or use your own package manager.
    
 2. **Dependencies**  
    Install required Python libraries:
