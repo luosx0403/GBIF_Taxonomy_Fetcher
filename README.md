@@ -1,7 +1,8 @@
-
 # GBIF-Taxonomy-Fetcher
 
-A powerful Python tool for fetching plant taxonomy information using the [GBIF API](https://www.gbif.org/developer/species).  
+GBIF (Global Biodiversity Information Facility) is an international network and data platform providing open access to biodiversity data, and its API enables retrieval of species occurrence, taxonomy, and metadata.
+
+This is a powerful Python tool for fetching plant taxonomy information using the [GBIF API](https://www.gbif.org/developer/species).  
 Easily retrieve taxonomic classifications from kingdom to species for given plant names with batch processing and parallel support.
 
 ---
