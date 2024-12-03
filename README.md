@@ -74,7 +74,7 @@ This will return genus and species for each family in the input file.
 | Argument         | Description                                                                                                   | Example                                |
 |------------------|---------------------------------------------------------------------------------------------------------------|----------------------------------------|
 | `-in-level`      | Input taxonomic level (`k`, `p`, `c`, `o`, `f`, `g`, `s`)                                                    | `-in-level f`                          |
-| `-out-level`     | Output taxonomic levels (multiple values supported, separated by space)                                       | `-out-level g s`                       |
+| `-out-level`     | Output taxonomic levels (multiple values supported, separated by space)                                      | `-out-level g s`                       |
 | `-input-file`    | Input file containing plant names (one name per line)                                                        | `-input-file input.txt`                |
 | `-output-file`   | Output file for results                                                                                      | `-output-file output.csv`              |
 | `-delay`         | Delay between requests (to handle rate limits)                                                               | `-delay 1.5`                           |
@@ -82,6 +82,7 @@ This will return genus and species for each family in the input file.
 | `-output-format` | Output file format: `txt`, `csv`, or `json`                                                                  | `-output-format csv`                   |
 | `-log-level`     | Logging level: `DEBUG`, `INFO`, `WARNING`, `ERROR`, or `CRITICAL`                                            | `-log-level INFO`                      |
 | `-retry`         | Retry fetching failed queries (from the error log)                                                           | `-retry`                               |
+| `-help`          | Instructions for use                                                                                         | `-help`                                |  
 
 ---
 
