@@ -35,7 +35,7 @@ Easily retrieve taxonomic classifications from kingdom to species for given plan
 
 Clone the repository and navigate to the project directory:
 ```bash
-git clone https://github.com/YourUsername/GBIF-Taxonomy-Fetcher.git
+git clone https://github.com/luosx0403/GBIF_Taxonomy_Fetcher.git
 cd GBIF-Taxonomy-Fetcher
 ```
 
