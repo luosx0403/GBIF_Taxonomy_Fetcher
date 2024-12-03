@@ -50,15 +50,15 @@ python script.py -in-level f -out-level g s -input-file input.txt -output-file o
 
 This script uses the following abbreviations for taxonomic levels:
 
-| Abbreviation | Full Term | Example       |
-| ------------ | --------- | ------------- |
-| `k`          | Kingdom   | Plantae       |
-| `p`          | Phylum    | Tracheophyta  |
-| `c`          | Class     | Magnoliopsida |
-| `o`          | Order     | Rosales       |
-| `f`          | Family    | Rosaceae      |
-| `g`          | Genus     | Rosa          |
-| `s`          | Species   | Rosa gallica  |
+| Abbreviation | Full Term | Example         |
+| ------------ | --------- | ----------------|
+| `k`          | Kingdom   | Plantae         |
+| `p`          | Phylum    | Tracheophyta    |
+| `c`          | Class     | Magnoliopsida   |
+| `o`          | Order     | Rosales         |
+| `f`          | Family    | Rosaceae        |
+| `g`          | Genus     | Rosa            |
+| `s`          | Species   | *Rosa gallica*  |
 
 For example, if you want to fetch the genus (`g`) and species (`s`) for a list of plant family names (`f`), you can specify:
 
