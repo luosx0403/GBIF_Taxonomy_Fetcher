@@ -82,7 +82,7 @@ This will return genus and species for each family in the input file.
 | `-output-format` | Output file format: `txt`, `csv`, or `json`                                                                  | `-output-format csv`                   |
 | `-log-level`     | Logging level: `DEBUG`, `INFO`, `WARNING`, `ERROR`, or `CRITICAL`                                            | `-log-level INFO`                      |
 | `-retry`         | Retry fetching failed queries (from the error log)                                                           | `-retry`                               |
-| `-help`          | Instructions for use                                                                                         | `-help`                                |  
+| `-h`          | Instructions for use                                                                                         | `-h`                                |  
 
 ---
 
